@@ -1,2 +1,2 @@
 # Con-Fusion
-Sample Angular app from coursera
+Sample Angular app for coursera
